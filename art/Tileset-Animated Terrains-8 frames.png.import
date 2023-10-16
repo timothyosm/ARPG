@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b5hgy656h7ogq"
-path="res://.godot/imported/tiles2.png-a3a505bbf327290dc5de542deb59a5be.ctex"
+uid="uid://co1yve6jnbrgx"
+path="res://.godot/imported/Tileset-Animated Terrains-8 frames.png-dc99b49b638bc4bbf4036818ade8a587.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/tiles2.png"
-dest_files=["res://.godot/imported/tiles2.png-a3a505bbf327290dc5de542deb59a5be.ctex"]
+source_file="res://art/Tileset-Animated Terrains-8 frames.png"
+dest_files=["res://.godot/imported/Tileset-Animated Terrains-8 frames.png-dc99b49b638bc4bbf4036818ade8a587.ctex"]
 
 [params]
 

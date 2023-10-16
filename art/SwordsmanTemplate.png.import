@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cue2gnjcm1q36"
-path="res://.godot/imported/PlayerSprite.png-3271683910528c7152868f9919f352a7.ctex"
+uid="uid://b1d4djf06r2hg"
+path="res://.godot/imported/SwordsmanTemplate.png-674d3730fc19e65891420deb06f00b23.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/PlayerSprite.png"
-dest_files=["res://.godot/imported/PlayerSprite.png-3271683910528c7152868f9919f352a7.ctex"]
+source_file="res://art/SwordsmanTemplate.png"
+dest_files=["res://.godot/imported/SwordsmanTemplate.png-674d3730fc19e65891420deb06f00b23.ctex"]
 
 [params]
 
